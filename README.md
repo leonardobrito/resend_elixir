@@ -1,5 +1,9 @@
 # Resend
 
+# 🚨 Aborted:
+
+Please take a look at this library instead: https://github.com/elixir-saas/resend
+
 **TODO: Add description**
 
 ## Installation
